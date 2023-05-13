@@ -44,4 +44,15 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
+- name: Sites
+  icon: fa-solid fa-globe
+  items:
+  - title: Office Mail
+    description: DNEG Offical Mail
+    icon: https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=avif&w=256
+    url: https://mail.google.com/mail/u/1/#inbox
+  - title: Personal Mail
+    description: Personal Mail
+    icon: https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png?f=avif&w=256
+    url: https://mail.google.com/mail/u/0/#inbox
   
